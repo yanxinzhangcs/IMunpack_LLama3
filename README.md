@@ -1,1 +1,1 @@
-This repo use IM-Unpack to accelerate LLama3. Now support INT8.
+This repo use IM-Unpack to accelerate LLama3 inference. Now support INT8.
